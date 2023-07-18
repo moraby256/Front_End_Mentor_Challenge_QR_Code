@@ -3,4 +3,3 @@ It's a challenge from [Frontendmentor](https://www.frontendmentor.io/challenges/
 
 It's a Newbie Level.
 
-I built it with html & css.
